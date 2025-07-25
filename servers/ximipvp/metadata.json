@@ -2,9 +2,11 @@
   "id": "ximipvp",
   "name": "XimiPvP",
   "description": "Server Practice e PvP competitivo per le versioni 1.7 e 1.8.",
-  "addresses": [
-    "ximipvp.net"
-  ],
+  "addresses":  [
+        "ximipvp.eu",
+        "ximipvp.com",
+        "ximi.lol",
+    ],
   "primaryAddress": "ximi.lol",
   "minecraftVersions": [
     "1.7.*",
